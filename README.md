@@ -1,6 +1,6 @@
-# 🎰 xv6-lottery-scheduler
+# 🎰 Xv6-Lottery-Scheduler
 
-A modified xv6 operating system implementing **Lottery Scheduling** - a proportional-share CPU scheduler that uses randomized selection based on process tickets.
+A modified xv6 operating system implementing **Lottery Scheduling Algorithm** - a proportional-share CPU scheduler that uses randomized selection based on process tickets.
 
 [![Built with xv6](https://img.shields.io/badge/Built%20with-xv6-blue.svg)](https://github.com/mit-pdos/xv6-riscv)
 [![RISC-V](https://img.shields.io/badge/Architecture-RISC--V-green.svg)](https://riscv.org/)
@@ -184,4 +184,4 @@ This project is licensed under the MIT License.
 
 ---
 
-*Built as part of my "Operating Systems" course assignment. Demonstrates lottery scheduling concepts in a real kernel environment. For any queries, please reach me at - abrar.labib2829@gmail.com*
+> Built as part of my "Operating Systems" course assignment. Demonstrates lottery scheduling concepts in a real kernel environment. For any queries, please reach me at - abrar.labib2829@gmail.com
